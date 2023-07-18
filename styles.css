@@ -9,7 +9,7 @@
 
 section{
     min-height: 100vh;
-    background-image: url("../img/jas3.png");
+    background-image: url("img/jas3.png");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -90,12 +90,12 @@ nav ul li .active{
 /*--------------------ABOUT ME------------------------------------*/
 
 #container{
-    background-image: url("../img/bg2.png");
+    background-image: url("img/bg2.png");
 }
 
 .about{
     min-height: 100vh;
-    background-image: url("../img/bg2.png");
+    background-image: url("img/bg2.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -409,7 +409,7 @@ h2{
     align-items: center;
     justify-content: center;
     padding: 0 20px;
-    margin-left: 70px;
+    margin-left: 0 auto;
 
 }
 
